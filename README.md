@@ -1,3 +1,3 @@
-# test
+# My new Repo
 
-This is another example
+This is updated example
